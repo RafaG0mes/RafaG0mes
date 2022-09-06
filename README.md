@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como analista de sistemas PL/SQL desenvolvendo relatórios e dashboards.
 - 🌱 Cursando Bacharelado em Ciência de Dados e, estudando Python com os Frameworks Django e Flask
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/rafag0mes">
