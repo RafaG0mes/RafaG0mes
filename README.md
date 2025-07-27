@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Rafael Gomes
 
-- 🔭 Atualmente trabalho como analista de sistemas PL/SQL desenvolvendo relatórios e dashboards.
-- 🌱 Cursando Bacharelado em Ciência de Dados e, estudando Python com os Frameworks Django e Flask
+- 🔭 Atualmente trabalho como analista de sistemas PL/SQL desenvolvendo rotinas e implementando regras de negócios no erp Sankhya.
+- 🌱 Estudando Java com Spring Boot
 
 
 <div align="center">
